@@ -1,9 +1,9 @@
-package com.github.vinifkroth.coreeng.tema1.lampada;
+package com.github.lampada;
 
 public class Main {
 
 	public static void main(String args[]) {
-
+t
 		LampadaFluorescente lampadaFluorescente = new LampadaFluorescente();
 		LampadaIncandescente lampadaIncandescente = new LampadaIncandescente();
 

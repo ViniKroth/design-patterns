@@ -1,4 +1,4 @@
-package com.github.vinifkroth.coreeng.tema1.lampada;
+package com.github.lampada;
 
 public class LampadaIncandescente implements Lampada {
 
