@@ -19,7 +19,9 @@ bin/
 *.tar.gz
 *.rar
 
-.gradle/
+.gradle/*
 build/
+.idea
+/gradle
 
 .dbeaver-data-sources*.xml
